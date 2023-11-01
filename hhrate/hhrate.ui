@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>hhrate</class>
+ <widget class="QMainWindow" name="hhrate">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>171</width>
+    <height>117</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>hhrate</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>171</width>
+      <height>116</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QPushButton" name="pushButton">
+       <property name="text">
+        <string>Add data</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="showStat">
+       <property name="text">
+        <string>Show statistics</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="upcomingMatchBtn">
+       <property name="text">
+        <string>Upcoming match</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="matchupBtn">
+       <property name="text">
+        <string>MatchUp</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
