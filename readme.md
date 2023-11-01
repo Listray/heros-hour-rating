@@ -1,0 +1,1 @@
+I wanted to play Hero's Hour as HOMM3 jebus cross so I created a custom map. It seems like HH has its' factions unbalanced so I want to see their winrates. But i need to play some games before.
